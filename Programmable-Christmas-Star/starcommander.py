@@ -1,4 +1,4 @@
-from time import sleep
+
 from star import Star
 
 star = Star(pwm=True)
